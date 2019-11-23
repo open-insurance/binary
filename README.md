@@ -1,2 +1,2 @@
-# template
-template repository
+# binary
+binary repository
